@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![brave723's github stats](https://github-readme-stats.vercel.app/api?username=brave723)](https://github.com/brave723/github-readme-stats)
+[![brave723's github stats](https://github-readme-stats.vercel.app/api?username=brave723)](https://github.com/anuraghazra/github-readme-stats)
 
