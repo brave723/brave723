@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Swift & iOS
-- 📫 How to reach me: [掘金](https://juejin.im/user/307518984425981)
 
 
 
